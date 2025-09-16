@@ -1,0 +1,5 @@
+{
+  "name": "kaipay",
+  "description": "kaipay is a web application that simulates the core functionalities of a mobile money service, featuring user authentication with 2FA, profiles, transactions, and a clean, intuitive user interface.",
+  "requestFramePermissions": []
+}
